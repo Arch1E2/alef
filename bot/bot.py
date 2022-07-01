@@ -6,7 +6,7 @@ from telebot import types
 DB_conf = {
     'database': 'alef_test',
     'user': 'postgres',
-    'password': 'cydvbb3qkc',
+    'password': 'password',
     'host': 'localhost',
     'port': '5432'
 }
