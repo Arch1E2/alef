@@ -1,0 +1,14 @@
+- Create and start virtual environment
+
+- install Packeges:
+    pip install -r requirements.txt
+
+- create Postgres DB and configurate parser.py and bot.py
+
+- start bot.py from dir bot with:
+    python bot.py 
+    
+- start parser.py from dir bot with:
+    python parser.py
+
+- find your bot in TG and try it
